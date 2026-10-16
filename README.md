@@ -3,11 +3,10 @@
 A modern, responsive full-stack trading dashboard built with React (Vite + TypeScript) frontend and Node.js (Express + WebSockets) backend.
 The system simulates live market ticks, allows users to place trade orders, view them in an interactive table (ag-Grid), and visualize prices on a real-time Chart.js chart.
 
-Deployed frontend on gh-pages and hosted backend service on [Render.com](https://render.com/). Used github-workflow to integrate deployment pipeline to ensure seamless deployment after every push to branch.
+. Used github-workflow to integrate deployment pipeline to ensure seamless deployment after every push to branch.
 
 Deployed URL: https://ekecodes.github.io/trading-dashboard/
 
-![Demo](https://raw.githubusercontent.com/ekeCodes/trading-dashboard/main/public/trading-dashboard.gif)
 
 ## Features
 
